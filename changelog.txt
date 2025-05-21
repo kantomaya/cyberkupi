@@ -1,0 +1,49 @@
+Changelog for efpose WordPress Theme | 
+
+= 1.8 =
+* Released: Feb 06, 2023
+* Fix: Minor CSS issue
+* Update for WooCommerce page template
+
+= 1.7 =
+* Released: Jan 27, 2023
+1. update for Elementor add-on
+2. Update for WooCommerce page template
+
+
+= 1.6 =
+* Released: Jan 17, 2023
+1. Cruccial update for Elementor add-on
+
+= 1.5 =
+* Released: Dec 30, 2022
+1. Fix Import Demo Problem
+2. Re-organize CSS code for optimation. 
+
+
+= 1.4 =
+* Released: Dec 27, 2022
+1. Adding New Feature
+2. Fix Import Demo Problem
+3. Fix CSS minor issue 
+
+
+= 1.3 =
+* Released: Dec 17, 2022
+1. Fix: Minor CSS issue
+2. Fix: Import Demo Problem
+
+= 1.2 =
+* Released: Dec 12, 2022
+1. Fix: Minor CSS issue
+
+= 1.1 =
+* Released: Dec 07, 2022
+* Fix: Minor CSS issue
+
+
+= 1.0 =
+* Released: Dec 05, 2022
+
+
+== Copyright ==
